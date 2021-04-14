@@ -139,7 +139,7 @@ footer small {
 }
 
 #index {
-  background-image: url(../images/bg-index-b.JPG);
+  background-image: url(../bg-index-b.JPG);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -148,7 +148,7 @@ footer small {
 }
 
 #about {
-  background-image: url(../images/bg-index-b.JPG);
+  background-image: url(../bg-index-b.JPG);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -225,7 +225,7 @@ table {
 }
 
 #photo {
-  background-image: url(../images/bg-index-b.JPG);
+  background-image: url(../bg-index-b.JPG);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -263,7 +263,7 @@ a img:hover {
 }
 
 #breakfast {
-  background-image: url(../images/bg-index-b.JPG);
+  background-image: url(../bg-index-b.JPG);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -281,7 +281,7 @@ a img:hover {
 }
 
 #menu {
-  background-image: url(../images/bg-index-b.JPG);
+  background-image: url(../bg-index-b.JPG);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -299,7 +299,7 @@ a img:hover {
 }
 
 #contact {
-  background-image: url(../images/bg-index-b.JPG);
+  background-image: url(../bg-index-b.JPG);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
